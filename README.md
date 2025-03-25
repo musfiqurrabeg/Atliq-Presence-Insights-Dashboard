@@ -1,4 +1,7 @@
 # Atliq Presence Insights - Power BI Dashboard
+---
+![image](https://github.com/user-attachments/assets/04b9fc69-5137-4d7b-a590-a28625244b66)
+
 
 ## Introduction
 Welcome to the **Atliq Presence Insights** Power BI Dashboard! 🚀 This dashboard provides a **deep dive** into employee attendance, work-from-home (WFH) trends, and sick leave (SL) patterns. Designed to track workforce engagement efficiently, this report offers **data-driven insights** into workplace trends over time. 
